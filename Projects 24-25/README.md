@@ -1,1 +1,1 @@
-
+Here you can find different folders, one for every group project. Within each folder you will find the report (.pdf) of the relative project (or sometimes just a presentation), and the Python code (.ipynb) we used to get all the results
